@@ -1,6 +1,7 @@
 - Hi, I’m @surya-vishnubhatt
 - I’m interested in bioinformatics and computational biology. 
-- I’m currently learning Biomedical Engineering.
+- I’m currently majoring in Biomedical Engineering at UC Davis.
+- I'm also an undergraduate researcher at the Korf Lab.
 - I’m looking to collaborate on any cool or interesting projects!
 - How to reach me: spvishnubhatt@ucdavis.edu
 
