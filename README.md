@@ -1,6 +1,5 @@
-- Interested in bioinformatics and computational biology. 
-- Currently a computational biology graduate student at the Weill Cornell Graduate School of Medical Sciences.
-- Researcher at the Tilgner Lab (https://github.com/KorfLab).
+- Currently a graduate student studying computational biology at the Weill Cornell Graduate School of Medical Sciences.
+- Researcher at the Tilgner Lab (https://www.tilgnerlab.com).
 - How to reach me: spv4002@med.cornell.edu
 
 <!---
