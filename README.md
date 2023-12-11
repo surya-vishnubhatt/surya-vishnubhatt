@@ -1,5 +1,5 @@
 - Currently a graduate student studying computational biology at the Weill Cornell Graduate School of Medical Sciences.
-- Researcher at the Tilgner Lab (https://www.tilgnerlab.com).
+- Researcher at the Khurana Lab ([https://www.tilgnerlab.com](https://khuranalab.med.cornell.edu/)).
 - How to reach me: spv4002@med.cornell.edu
 
 <!---
