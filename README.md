@@ -1,6 +1,6 @@
-- Currently a graduate student studying computational biology at the Weill Cornell Graduate School of Medical Sciences.
-- Researcher at the Khurana Lab (https://khuranalab.med.cornell.edu/).
-- How to reach me: spv4002@med.cornell.edu
+- Master's graduate with a degree in computational biology from the Weill Cornell Graduate School of Medical Sciences.
+- Graduate researcher at the Khurana Lab (https://khuranalab.med.cornell.edu/).
+- How to reach me: spv4002@alumni.weill.cornell.edu
 
 <!---
 surya-vishnubhatt/surya-vishnubhatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
