@@ -1,4 +1,4 @@
-- Master's graduate with a degree in computational biology from the Weill Cornell Graduate School of Medical Sciences.
+- Computational biologist with a background in bioinformatics, machine learning, and data science.
 - Graduate researcher at the Khurana Lab (https://khuranalab.med.cornell.edu/).
 - How to reach me: spv4002@alumni.weill.cornell.edu
 
