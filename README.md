@@ -1,7 +1,7 @@
 - Computational biologist with a background in synthetic biology, bioinformatics, machine learning, and data science.
 - B.S. in Biomedical Engineering from UC Davis
 - M.S. in Computational Biology from Weill Cornell
-- Bioinformatics Associate Scientist at the Coriell Institute for Medical Research
+- Associate Bioinformatics Scientist at the Coriell Institute for Medical Research
 - How to reach me: spv4002@alumni.weill.cornell.edu
 
 <!---
