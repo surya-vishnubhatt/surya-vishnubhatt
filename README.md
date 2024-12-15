@@ -2,6 +2,7 @@
 - B.S. in Biomedical Engineering from UC Davis
 - M.S. in Computational Biology from Weill Cornell
 - Associate Bioinformatics Scientist at the Coriell Institute for Medical Research
+- Quantum Computing Enthusiast
 - How to reach me: spv4002@alumni.weill.cornell.edu
 
 <!---
