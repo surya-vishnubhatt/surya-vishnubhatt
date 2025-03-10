@@ -1,7 +1,6 @@
 - Computational biologist and quantum computing enthusiast with a background in synthetic biology, bioinformatics, machine learning, and data science.
 - B.S. in Biomedical Engineering from UC Davis
 - M.S. in Computational Biology from Weill Cornell
-- Bioinformatics Associate Scientist at the Coriell Institute
 - How to reach me: vishnubhattsurya@gmail.com
 
 <!---
